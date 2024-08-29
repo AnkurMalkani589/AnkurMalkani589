@@ -8,7 +8,6 @@
     </h1>
         <p>A passionate software developer from India</p>
         <div>
-            <p>🔨 I'm currently working on <strong>SAP</strong></p>
             <p>🌱 I'm currently learning <strong>Docker, ReactJS, AWS</strong></p>
         </div>
         <p>
